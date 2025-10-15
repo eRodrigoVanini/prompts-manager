@@ -1,7 +1,0 @@
-﻿# dependências
-node_modules/
-# variáveis locais
-.env
-# VSCode e segredos locais
-.vscode/mcp.json
-.vscode/*.local.json
